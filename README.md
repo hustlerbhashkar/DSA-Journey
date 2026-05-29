@@ -1,2 +1,2 @@
-# DSA-Journey
-Solving question daily on leetcode and tracking the progress that i have made.
+# DSA Journey
+Solving questions daily on LeetCode and tracking my progress.
